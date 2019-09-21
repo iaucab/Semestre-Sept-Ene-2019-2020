@@ -1,11 +1,11 @@
 # Plan de Semestre Sep-Ene 2019-2020
 
-###Objetivos
+### Objetivos
 1. **Reclutamiento** Encontrar nuevos integrantes motivados. 
 2. **Proyecto** Realizar un chatbot para el proceso de inscripción y re-inscripción académica en el que se apliquen conceptos de NLP.
 3. **Branding** Hacer que el club sea más conocido.
 
-###Plan General
+### Plan General
 | Semanas      | Actividades          |
 | ------------- |:-------------:| 
 | Semana 1     | Organización de actividades | 
