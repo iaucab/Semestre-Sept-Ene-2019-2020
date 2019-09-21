@@ -3,7 +3,7 @@
 ### Objetivos
 1. **Reclutamiento** Encontrar nuevos integrantes motivados. 
 2. **Proyecto** Realizar un chatbot para el proceso de inscripción y re-inscripción académica en el que se apliquen conceptos de NLP.
-3. **Branding** Hacer que el club sea más conocido.
+3. **Branding** Tener más reconocimiento por parte de los estudiantes.
 
 ### Plan General
 | Semana(s)      | Actividades          |
